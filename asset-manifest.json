@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/increment-decrement-exercise-ttp/static/css/main.8afd37d8.chunk.css",
+    "main.js": "/increment-decrement-exercise-ttp/static/js/main.4d271fe0.chunk.js",
+    "main.js.map": "/increment-decrement-exercise-ttp/static/js/main.4d271fe0.chunk.js.map",
+    "runtime-main.js": "/increment-decrement-exercise-ttp/static/js/runtime-main.764e867f.js",
+    "runtime-main.js.map": "/increment-decrement-exercise-ttp/static/js/runtime-main.764e867f.js.map",
+    "static/js/2.3e007110.chunk.js": "/increment-decrement-exercise-ttp/static/js/2.3e007110.chunk.js",
+    "static/js/2.3e007110.chunk.js.map": "/increment-decrement-exercise-ttp/static/js/2.3e007110.chunk.js.map",
+    "static/js/3.94aac7ae.chunk.js": "/increment-decrement-exercise-ttp/static/js/3.94aac7ae.chunk.js",
+    "static/js/3.94aac7ae.chunk.js.map": "/increment-decrement-exercise-ttp/static/js/3.94aac7ae.chunk.js.map",
+    "index.html": "/increment-decrement-exercise-ttp/index.html",
+    "static/css/main.8afd37d8.chunk.css.map": "/increment-decrement-exercise-ttp/static/css/main.8afd37d8.chunk.css.map",
+    "static/js/2.3e007110.chunk.js.LICENSE.txt": "/increment-decrement-exercise-ttp/static/js/2.3e007110.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.764e867f.js",
+    "static/js/2.3e007110.chunk.js",
+    "static/css/main.8afd37d8.chunk.css",
+    "static/js/main.4d271fe0.chunk.js"
+  ]
+}
